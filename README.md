@@ -1,6 +1,7 @@
-# Renaiss TCG Title Parser (Userscript)
+# Renaiss 卡牌信息助手（油猴脚本）
 
-油猴脚本：在 Renaiss 单张卡页面自动解析标题并拆分成友好字段。
+## 效果图： 
+![alt text](/_assets/image10.png)
 
 作者 Twitter：[@Leosu1030](https://x.com/Leosu1030)
 
