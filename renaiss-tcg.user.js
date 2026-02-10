@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Renaiss TCG Title Parser
 // @namespace    renaiss-tcg
+// @homepageURL  https://x.com/Leosu1030
 // @version      0.1.0
 // @description  Parse Renaiss card titles into beginner-friendly fields
 // @match        *://www.renaiss.xyz/card/*
